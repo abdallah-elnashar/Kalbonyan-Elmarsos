@@ -9,9 +9,8 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
+ 
+- [Project Live Demo]()
 
 ### goals app (S6-S7)
 
