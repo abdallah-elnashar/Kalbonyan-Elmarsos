@@ -14,7 +14,7 @@
 - [Code](./Projects/goals-app/S07-project/) 
 <br/>
 - [Project Live Demo]()
-![goal app](https://user-images.githubusercontent.com/90924885/185409497-64045437-c6a1-4bbf-b669-2d8f3d8fcd2b.png)
+ (https://user-images.githubusercontent.com/90924885/185409497-64045437-c6a1-4bbf-b669-2d8f3d8fcd2b.png)
 
 ### Section 8-9 Project
 
