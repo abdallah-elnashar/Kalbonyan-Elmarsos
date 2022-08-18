@@ -12,8 +12,9 @@
 ### goals app (S6-S7)
 
 - [Code](./Projects/goals-app/S07-project/) 
+- [Project Live Demo](https://expense-tracker-abdallah.netlify.app/)
 <br/>
-- [Project Live Demo]()
+ 
   
 ![goal app](https://user-images.githubusercontent.com/90924885/185410008-c7481e16-7a47-442e-af5b-fcbc197c351a.png)
 
