@@ -98,7 +98,10 @@
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://cart-redux-app.netlify.app/)
+
+![Screenshot 2022-08-18 184405](https://user-images.githubusercontent.com/90924885/185449785-dad32691-52bc-45cc-a562-722d8bc6f40b.png)
+
 
 ### Quotes app(S20)
 
