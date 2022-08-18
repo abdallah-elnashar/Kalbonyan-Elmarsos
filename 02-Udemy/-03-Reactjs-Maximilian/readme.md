@@ -161,7 +161,9 @@
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
-- [Live Demo]()
+- [Live Demo](https://meetupss-app-abd.netlify.app/)
+![Screenshot 2022-08-18 192312](https://user-images.githubusercontent.com/90924885/185456739-f132516b-90dc-4f9b-84a2-b123112bd730.png)
+
 
 ---
 
@@ -173,6 +175,6 @@
 
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate]( https://www.udemy.com/certificate/UC-bbf7e8b6-7b99-49c0-9363-2929017ae433/)
 <br>
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
