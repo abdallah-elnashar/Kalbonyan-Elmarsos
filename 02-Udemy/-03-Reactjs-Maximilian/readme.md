@@ -106,7 +106,10 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Live Demo](https://quotes-abdallah.netlify.app/quotes)
+
+![Screenshot 2022-08-18 185853](https://user-images.githubusercontent.com/90924885/185452612-4562072f-aa3a-4aa0-9a4e-0b0bbd245dc2.png)
+
 
 ### Authentication-page(S22)
 
