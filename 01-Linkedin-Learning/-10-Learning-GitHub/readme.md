@@ -4,4 +4,7 @@
 
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/45f2c7ee8af7c8675a32b4f6fb64e78fb15d37125455864a07e23efbd20187eb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrIDA%2FuD2R12Cples%2BFCWGQ%3D%3D)
+
+
+![10](https://user-images.githubusercontent.com/90924885/185459689-6aef3117-e20b-4399-a94c-cbbf70513327.png)
