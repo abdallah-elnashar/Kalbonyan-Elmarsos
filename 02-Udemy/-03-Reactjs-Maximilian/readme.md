@@ -60,7 +60,10 @@
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
+- [Live Demo](https://movies-app-abdallah.netlify.app/)
+
+![movie](https://user-images.githubusercontent.com/90924885/185434314-3a6c504a-06e5-4e18-8b6c-ee55167965e5.png)
+
 
 ### Tasks app with firebase(S15)
 
