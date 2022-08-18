@@ -90,7 +90,10 @@
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo]()
+- [Live Demo](https://redux-counter-abdallah.netlify.app/)
+
+![redux](https://user-images.githubusercontent.com/90924885/185448820-340183c5-6f0d-48fb-8115-0b2ae2f5ff46.png)
+
 
 ### Redux Cart(S19)
 
