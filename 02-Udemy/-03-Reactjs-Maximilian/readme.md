@@ -12,7 +12,7 @@
 ### goals app (S6-S7)
 
 - [Gaol App Code](./Projects/goals-app/S07-project/) 
-- [Project Live Demo](https://login-app-abdallah.netlify.app/)
+- [Project Live Demo](https://goal-app-abdallah.netlify.app/)
 <br/>
  
   
