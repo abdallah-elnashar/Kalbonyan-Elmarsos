@@ -4,23 +4,18 @@
 
 ### expenses-app (S3-S5)
 
- 
 - [Section 5 Code](./Projects/Expenses-app/S05-project/)
-
   <br/>
-
- 
 - [Project Live Demo]()
+![expense tracker](https://user-images.githubusercontent.com/90924885/185405350-00895847-3549-4e24-8edb-4a6c1e75cb78.png)
 
 ### goals app (S6-S7)
 
-- [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](./Projects/goals-app/S07-project/)
-
+- [Code](./Projects/goals-app/S06-project/)
+-  
 <br/>
-
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
+- [Project Live Demo]()
+ 
 
 ### Section 8-9 Project
 
