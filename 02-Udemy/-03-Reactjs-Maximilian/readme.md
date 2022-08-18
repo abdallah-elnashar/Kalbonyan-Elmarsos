@@ -44,7 +44,10 @@
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+- [Live Demo](https://cheery-valkyrie-9a1bbe.netlify.app/)
+
+![s12](https://user-images.githubusercontent.com/90924885/185427443-8f8c02be-bf08-4257-933d-2f9c1adb0e08.png)
+
 
 ### Section 13 Project
 
