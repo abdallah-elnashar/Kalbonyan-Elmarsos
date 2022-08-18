@@ -85,7 +85,7 @@
 - [Project Code](./Projects/order-food-app/S17-project/)
 - [Final Project Live Live Demo](https://food-order-app2-abd.netlify.app/)
 
-![expense tracker](https://user-images.githubusercontent.com/90924885/185405350-00895847-3549-4e24-8edb-4a6c1e75cb78.png)
+![food](https://user-images.githubusercontent.com/90924885/185424796-52f6889f-97e5-4712-8e50-40842d9b887d.png)
 
 ### Redux Counter(S18)
 
