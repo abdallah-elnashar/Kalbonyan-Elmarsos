@@ -26,5 +26,5 @@
 ---
 [Course-Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)<br>
 
-![Certificate]( https://www.udemy.com/certificate/UC-05e98811-88e4-4908-a3ee-e8e3419e401c/)
+[Certificate](https://www.udemy.com/certificate/UC-05e98811-88e4-4908-a3ee-e8e3419e401c/)
 
