@@ -30,6 +30,7 @@
 
 - [Project-code](./Projects/Bankist-Site)
 - [Live Demo](https://abdallah-bankist-site.netlify.app/)
+![Screenshot 2022-09-16 185315](https://user-images.githubusercontent.com/90924885/190690067-d925fc9d-37d3-4612-ab03-5bf03655f60c.png)
 
 ### Mapty
 
