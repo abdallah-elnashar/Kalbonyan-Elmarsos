@@ -34,7 +34,8 @@
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://abdallah-mapty-app.netlify.app/)
+![Screenshot 2022-09-16 184813](https://user-images.githubusercontent.com/90924885/190689360-cee7172d-e0e3-4cf5-9529-334a991b29c8.png)
 
 ### Forkify
 
