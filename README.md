@@ -47,8 +47,8 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-## JavaScript - Select one of these 2 courses to complete
-- [ ]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
+## JavaScript  
+- [x]  `Done` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs  
 - [x]  `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
  
